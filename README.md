@@ -1,2 +1,2 @@
 # orange
-this is my first repository
+this repository is just for tutorial
